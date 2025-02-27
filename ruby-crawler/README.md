@@ -1,4 +1,7 @@
-### How to run:
+## What it does
+The script scrapes the amazon most-wished items in a selected category and outputs their titles/prices to a file.
+
+## How to run:
 - Install ruby 2.6+
 - Check installed gems:
 
